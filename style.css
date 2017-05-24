@@ -1,0 +1,62 @@
+* 
+{
+	margin: 			0;
+	padding:			0;
+}
+
+body
+{
+	height:				100vh;
+	width:				100vw;
+}
+
+#c1
+{
+	box-sizing:		border-box;
+	border:				1px solid black;
+	height:				100%;
+	width:				33.33%;
+	float:				left;
+}
+
+#c2
+{
+	box-sizing:		border-box;
+	border:				1px solid black;
+	height:				100%;
+	width:				33.33%;
+	float:				left;
+}
+
+#c3
+{
+	box-sizing:		border-box;
+	border:				1px solid black;
+	height:				100%;
+	width:				33.33%;
+	float:				left;
+}
+
+.pikkane
+{
+	box-sizing:		border-box;
+	border:				1px solid black;
+	height:				25%;
+	width:				100%;
+}
+
+.isohko
+{
+	box-sizing:		border-box;
+	border:				1px solid black;
+	height:				33.33%;
+	width:				100%;
+}
+
+.iso
+{
+	box-sizing:		border-box;
+	border:				1px solid black;
+	height:				50%;
+	width:				100%;
+}
